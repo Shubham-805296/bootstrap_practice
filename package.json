@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_practice",
+  "version": "1.0.0",
+  "description": "practice bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-805296/bootstrap_practice.git"
+  },
+  "keywords": [
+    "bootstrap practice",
+    "bootstrap examples"
+  ],
+  "author": "Shubham Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-805296/bootstrap_practice/issues"
+  },
+  "homepage": "https://github.com/Shubham-805296/bootstrap_practice#readme"
+}
