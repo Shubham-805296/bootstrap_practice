@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Shubham-805296/bootstrap_practice/issues"
   },
-  "homepage": "https://github.com/Shubham-805296/bootstrap_practice#readme"
+  "homepage": "https://github.com/Shubham-805296/bootstrap_practice#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
 }
